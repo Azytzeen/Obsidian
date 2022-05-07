@@ -1,0 +1,2 @@
+#produktywność #nauka 
+mnemonic

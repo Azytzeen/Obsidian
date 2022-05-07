@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "bdc7dc5f9dc472f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8eca3f04ee4832",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202205062117 - git command.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a3548943abddded",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f28aa95536af14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d681fd99a723f59c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "02ecea2adbe1f5b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "db744c33e8dd7380",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7822bc370e9b1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09f7ac1fe8e632e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202205062117 - git command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94e1c54595e5e0ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08202ea038e67768",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "7f8eca3f04ee4832",
+  "lastOpenFiles": [
+    "202205062117 - git command.md",
+    "Obsidian.md",
+    "Accepted file formats.md",
+    "Start here.md",
+    "Advanced Use/How Obsidian Stores Data.md",
+    "202204301214 - Książki.md",
+    "How to/Format your notes.md",
+    "How to/Basic Note Taking.md",
+    "My favorite band.md",
+    "202205062020- Road to WebDev.md"
+  ]
+}
