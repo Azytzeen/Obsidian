@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202204301214 - Książki.md",
-            "mode": "source",
+            "file": "202205091922 - Strony dla WebDev.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202204301214 - Książki.md",
+                "file": "202205091922 - Strony dla WebDev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "1599afcfef4fa33a",
   "lastOpenFiles": [
+    "202205091922 - Strony dla WebDev.md",
+    "202205091526 - Mastodon.md",
+    "202205091119 - eyen rower.md",
     "202204301214 - Książki.md",
     "2022-04-18 - zettelkasten.md",
     "202205071153 - Nowa notatka.md",
     "202205062117 - git command.md",
     "Obsidian.md",
     "Accepted file formats.md",
-    "Start here.md",
-    "Advanced Use/How Obsidian Stores Data.md",
-    "How to/Format your notes.md",
-    "How to/Basic Note Taking.md"
+    "Start here.md"
   ]
 }
