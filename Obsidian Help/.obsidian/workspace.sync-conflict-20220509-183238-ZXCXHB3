@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "bdc7dc5f9dc472f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1599afcfef4fa33a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202205091526 - Mastodon.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "353fc4ac378a56ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44adf5dc3a3c2709",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b657c4d2bc79a5e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9b71e166cc1a364",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7d9ae2fe6250aa29",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c9dbfb53c4dcfe4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "202205091526 - Mastodon.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "36e0967dcc700e6e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1599afcfef4fa33a",
+  "lastOpenFiles": [
+    "202205091526 - Mastodon.md",
+    "202205091119 - eyen rower.md",
+    "202204301214 - Książki.md",
+    "202205071153 - Nowa notatka.md",
+    "202205062117 - git command.md",
+    "Obsidian.md",
+    "Accepted file formats.md",
+    "Start here.md",
+    "Advanced Use/How Obsidian Stores Data.md",
+    "How to/Format your notes.md"
+  ]
+}

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8eca3f04ee4832",
+        "id": "1599afcfef4fa33a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202205062117 - git command.md",
-            "mode": "preview",
+            "file": "202204301214 - Książki.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a3548943abddded",
+    "id": "bf494f4f493aadc9",
     "type": "split",
     "children": [
       {
-        "id": "f0f28aa95536af14",
+        "id": "f3863ec43ed55597",
         "type": "tabs",
         "children": [
           {
-            "id": "d681fd99a723f59c",
+            "id": "5ac4e88814d16a66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,14 +35,14 @@
             }
           },
           {
-            "id": "02ecea2adbe1f5b8",
+            "id": "622f4d980ab1ac91",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -53,23 +53,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 300
   },
   "right": {
-    "id": "db744c33e8dd7380",
+    "id": "fb1d00672a869b7f",
     "type": "split",
     "children": [
       {
-        "id": "e7822bc370e9b1d6",
+        "id": "aa7db20eea86bfe0",
         "type": "tabs",
         "children": [
           {
-            "id": "b09f7ac1fe8e632e",
+            "id": "fed9520f8ac9539d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d33dfd493a9c813d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202205062117 - git command.md",
+                "file": "202204301214 - Książki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +89,7 @@
             }
           },
           {
-            "id": "94e1c54595e5e0ff",
+            "id": "1b372d51998212c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -90,34 +98,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "08202ea038e67768",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 300,
     "collapsed": true
   },
-  "active": "7f8eca3f04ee4832",
+  "active": "1599afcfef4fa33a",
   "lastOpenFiles": [
-    "202205062117 - git command.md",
+    "202204301214 - Książki.md",
+    "2022-04-18 - zettelkasten.md",
     "202205071153 - Nowa notatka.md",
+    "202205062117 - git command.md",
     "Obsidian.md",
     "Accepted file formats.md",
     "Start here.md",
     "Advanced Use/How Obsidian Stores Data.md",
-    "202204301214 - Książki.md",
     "How to/Format your notes.md",
-    "How to/Basic Note Taking.md",
-    "My favorite band.md"
+    "How to/Basic Note Taking.md"
   ]
 }
