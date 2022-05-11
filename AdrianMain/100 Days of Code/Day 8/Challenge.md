@@ -1,1 +1,0 @@
-wykorzystać zapadanie się marginesu aby poprawić stronę główną i box shadow
