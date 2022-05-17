@@ -8,3 +8,5 @@ for inline elements we cannot apply vertical margins and for inline block elemen
 So elements with display inline block rule applied, margin collapsing, simply isnt an issue.
 
 It happens between adjacent elements, it only affects vertical margins,and therefore, it kind of simply defines that the bigger margine defined between two following elements wins, in such cases when it comes to defining the distance the margin between these two elements
+
+The browser collapses two adjacent margines into one (bigger one) - this is default behavior called ****"margin collapsing"
