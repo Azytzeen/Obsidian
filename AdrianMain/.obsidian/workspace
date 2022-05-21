@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1599afcfef4fa33a",
+        "id": "30058e20bec159cf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "100 Days of Code/Day 9,10/HTML & CSS Basics - Summary & Practice.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code/Day 9,10/HTML & CSS Basics - Summary & Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1599afcfef4fa33a",
+  "active": "30058e20bec159cf",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "202205091922 - Strony dla WebDev.md",
+    "202205092027 - robienie notatek.md",
+    "202205091119 - eyen rower.md",
     "100 Days of Code/Day 9,10/HTML & CSS Basics - Summary & Practice.md",
     "100 Days of Code/Day 11/Serving a Website.md",
     "100 Days of Code/Day 8/Understanding margin collapsing.md",
     "202205091526 - Mastodon.md",
-    "202205092027 - robienie notatek.md",
-    "202205091922 - Strony dla WebDev.md",
     "202205062117 - git command.md",
-    "202205091119 - eyen rower.md",
-    "2022-04-18 - projekty.md",
-    "100 Days of Code/Day 8/A list of all CSS Selectors.md"
+    "2022-04-18 - projekty.md"
   ]
 }
