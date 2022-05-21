@@ -8,4 +8,4 @@
 ****Hosting*** - the remote machine ("server") hosts (stores) the website code and serves it to visitors
 
 my website on Netlify 
-https://prismatic-squirrel-b4bd5a.netlify.app/index.html
+https://peppy-parfait-417a7a.netlify.app/
