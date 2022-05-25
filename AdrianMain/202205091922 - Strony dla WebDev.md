@@ -11,4 +11,8 @@ dzone
 daily.dev
 net.magazine
 
+https://www.30secondsofcode.org/
 
+https://csslayout.io/
+
+https://www.frontendmentor.io/
