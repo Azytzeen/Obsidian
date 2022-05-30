@@ -14,3 +14,4 @@ Efficient Control and tracking of code changes over time
 **commit** -> code snapshot(added image,fixed order button)
 
 **branch** -> where commits are stored(main/master), new branch feature
+
