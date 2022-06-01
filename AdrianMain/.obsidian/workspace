@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100 Days of Code/Day 13 Wy we use GitHub/GitHub.md",
+            "file": "100 Days of Code/Day 12 Windows CMD, Git/CMD.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code/Day 13 Wy we use GitHub/GitHub.md",
+                "file": "100 Days of Code/Day 12 Windows CMD, Git/CMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "30058e20bec159cf",
   "lastOpenFiles": [
+    "100 Days of Code/Day 12 Windows CMD, Git/CMD.md",
     "100 Days of Code/Day 13 Wy we use GitHub/GitHub.md",
     "100 Days of Code/Day 12 Windows CMD, Git/Version Control with Git and GitHub.md",
     "202204232001 -NOTE.md",
@@ -116,7 +117,6 @@
     "Accepted file formats.md",
     "Obsidian.md",
     "Start here.md",
-    "SZABLONY/nowa-notatka.md",
-    "SZABLONY/książka.md"
+    "SZABLONY/nowa-notatka.md"
   ]
 }
