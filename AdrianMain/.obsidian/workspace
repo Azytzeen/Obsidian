@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202205062117 - git command.md",
-            "mode": "source",
+            "file": "100 Days of Code/Day 15 Understanding Layouts and Positioning/Project.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202205062117 - git command.md",
+                "file": "100 Days of Code/Day 15 Understanding Layouts and Positioning/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "30058e20bec159cf",
   "lastOpenFiles": [
-    "202205062117 - git command.md",
+    "100 Days of Code/Day 15 Understanding Layouts and Positioning/Project.md",
+    "100 Days of Code/Day 15 Understanding Layouts and Positioning/Module content.md",
+    "202205062020- Road to WebDev.md",
+    "202204281952 - Path to learn.md",
     "100 Days of Code/Day 14 Token and git clone/Personal Access Token and git clone.md",
+    "202205062117 - git command.md",
     "100 Days of Code/Day 12 Windows CMD, Git/Version Control with Git and GitHub.md",
     "100 Days of Code/Day 13 Wy we use GitHub/GitHub.md",
     "100 Days of Code/Day 12 Windows CMD, Git/CMD.md",
-    "202204232001 -NOTE.md",
-    "2022-04-18 - zettelkasten.md",
-    "Accepted file formats.md",
-    "Obsidian.md",
-    "Start here.md"
+    "202204232001 -NOTE.md"
   ]
 }
